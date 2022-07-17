@@ -5,8 +5,6 @@ services:
     container_name: mongodb
     ports:
       - '27117:27017'
-    # volumes:
-    #   - ./data/db:/data/db
   app_repository:
     build: .
     image: node
