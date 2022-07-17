@@ -12,7 +12,7 @@
 
 ## Overview:
 
-This project presents the application of the repository project pattern in Nodejs.
+This project presents the application of the repository project pattern in Nodejs. Running a basic CRUD application for two different entities, using the generic repository pattern.
 
 ## Technologies
 
