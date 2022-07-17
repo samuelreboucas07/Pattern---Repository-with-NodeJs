@@ -6,7 +6,7 @@
 
 * [How to use](#How-to-use)
 
-* [Routes](#routes)
+* [Endpoints](#endpoints)
 
 * [References](#references)
 
@@ -25,7 +25,7 @@ Run application using docker, which will upload two containers one with nodejs s
 ```
 docker-compose up
 ```
-## Routes
+## Endpoints
 
 * ```/user/create``` POST
 * ```/user/getAll``` GET
